@@ -2,9 +2,9 @@
 
 <p align="center">
 This is an app that can load, render, and manipulate 3D scenes. A scene consists of 3d models and a scenegraph in which those objects are arranged.
-
+<p align="center">
 Some Key Features:
-
+</p>
 -Vertex parsing
 
 -Face/index parsing
