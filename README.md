@@ -41,7 +41,8 @@ Some Key Features:
 
 ## Contact
 
-Justin Yan - https://www.linkedin.com/in/justin-yan-a39937187
+Justin Yan - https://www.linkedin.com/in/justin-yan-a39937187![Uploading lucyteapot.gif…]()
+
 
 Project Link: https://github.com/rasyt123/jeng/edit/main/README.md
 
