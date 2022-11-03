@@ -5,19 +5,19 @@ This is an app that can load, render, and manipulate 3D scenes. A scene consists
 
 Some Key Features:
 
-Vertex parsing
+-Vertex parsing
 
-Face/index parsing
+-Face/index parsing
 
-Quad triangulation
+-Quad triangulation
 
-Compound model matrix calculation
+-Compound model matrix calculation
 
-Different draw modes
+-Different draw modes
 
-Interaction with scene nodes
+-Interaction with scene nodes
 
-Arcball camera interaction
+-Arcball camera interaction
 
 
 </p>
